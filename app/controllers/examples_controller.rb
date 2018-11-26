@@ -20,8 +20,9 @@ class ExamplesController < OpenReadController
   # POST /examples
   # POST /examples.json
   def create
+    # token looks up current_user, then use current_user to build resource
     @example = current_user.examples.build(example_params)
-
+    # => example with user_id automatically filled in
     if @example.save
       render json: @example, status: :created
     else
