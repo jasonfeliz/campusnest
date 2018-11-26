@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_11_26_194634) do
+ActiveRecord::Schema.define(version: 2018_11_26_202039) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,6 +22,19 @@ ActiveRecord::Schema.define(version: 2018_11_26_194634) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "email_url"
+  end
+
+  create_table "discussions", force: :cascade do |t|
+    t.bigint "college_id"
+    t.bigint "user_id"
+    t.bigint "interest_id"
+    t.text "title"
+    t.text "body"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["college_id"], name: "index_discussions_on_college_id"
+    t.index ["interest_id"], name: "index_discussions_on_interest_id"
+    t.index ["user_id"], name: "index_discussions_on_user_id"
   end
 
   create_table "examples", force: :cascade do |t|
@@ -51,6 +64,9 @@ ActiveRecord::Schema.define(version: 2018_11_26_194634) do
     t.index ["token"], name: "index_users_on_token", unique: true
   end
 
+  add_foreign_key "discussions", "colleges"
+  add_foreign_key "discussions", "interests"
+  add_foreign_key "discussions", "users"
   add_foreign_key "examples", "users"
   add_foreign_key "users", "colleges"
 end
