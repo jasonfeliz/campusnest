@@ -1,7 +1,10 @@
 # frozen_string_literal: true
 
 class UsersController < ProtectedController
-  skip_before_action :authenticate, only: %i[signup signin]
+  skip_before_action :authenticate, only: %i[signup signin index]
+  def index
+    render json: User.all
+  end
 
   # POST '/sign-up'
   def signup
@@ -50,7 +53,7 @@ class UsersController < ProtectedController
 
   def user_creds
     params.require(:credentials)
-          .permit(:email, :password, :password_confirmation)
+          .permit(:email, :password, :password_confirmation,:username,:college_id)
   end
 
   def pw_creds

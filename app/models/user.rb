@@ -3,4 +3,5 @@
 class User < ApplicationRecord
   include Authentication
   has_many :examples
+  belongs_to :college
 end
