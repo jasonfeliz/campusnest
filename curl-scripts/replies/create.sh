@@ -1,15 +1,13 @@
 #!/bin/bash
 
-curl "http://localhost:4741/" \
+curl "http://localhost:4741/replies" \
   --include \
   --request POST \
   --header "Content-Type: application/json" \
   --data '{
-    "discussion": {
-      "college_id": "'"${COLLEGEID}"'",
+    "reply": {
       "user_id": "'"${USERID}"'",
-      "interest_id": "'"${INTERESTID}"'",
-      "title": "'"${TITLE}"'",
+      "discussion_id": "'"${DISCUSSIONID}"'",
       "body": "'"${BODY}"'"
     }
   }'

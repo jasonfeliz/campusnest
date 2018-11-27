@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_11_26_202039) do
+ActiveRecord::Schema.define(version: 2018_11_27_030222) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -51,6 +51,25 @@ ActiveRecord::Schema.define(version: 2018_11_26_202039) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "replies", force: :cascade do |t|
+    t.bigint "discussion_id"
+    t.bigint "user_id"
+    t.text "body"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["discussion_id"], name: "index_replies_on_discussion_id"
+    t.index ["user_id"], name: "index_replies_on_user_id"
+  end
+
+  create_table "userinterests", force: :cascade do |t|
+    t.bigint "user_id"
+    t.bigint "interest_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["interest_id"], name: "index_userinterests_on_interest_id"
+    t.index ["user_id"], name: "index_userinterests_on_user_id"
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "email", null: false
     t.string "token", null: false
@@ -68,5 +87,9 @@ ActiveRecord::Schema.define(version: 2018_11_26_202039) do
   add_foreign_key "discussions", "interests"
   add_foreign_key "discussions", "users"
   add_foreign_key "examples", "users"
+  add_foreign_key "replies", "discussions"
+  add_foreign_key "replies", "users"
+  add_foreign_key "userinterests", "interests"
+  add_foreign_key "userinterests", "users"
   add_foreign_key "users", "colleges"
 end

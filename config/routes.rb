@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
+  resources :userinterests
+  resources :replies, except: %i[new edit]
   resources :discussions, except: %i[new edit]
   resources :interests, except: %i[new edit]
   resources :colleges, except: %i[new edit]
