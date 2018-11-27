@@ -1,4 +1,4 @@
-class CollegesController < ApplicationController
+class CollegesController < OpenReadController
   before_action :set_college, only: [:show, :update, :destroy]
 
   # GET /colleges

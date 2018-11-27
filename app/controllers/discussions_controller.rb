@@ -1,4 +1,4 @@
-class DiscussionsController < ApplicationController
+class DiscussionsController < OpenReadController
   before_action :set_discussion, only: [:show, :update, :destroy]
 
   # GET /discussions
