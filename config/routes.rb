@@ -13,6 +13,8 @@ Rails.application.routes.draw do
   get '/users' => 'users#index'
   post '/sign-up' => 'users#signup'
   post '/sign-in' => 'users#signin'
+  post '/check-username' => 'users#checkusername'
+  post '/check-email' => 'users#checkemail'
   delete '/sign-out' => 'users#signout'
   patch '/change-password' => 'users#changepw'
 end

@@ -9,6 +9,7 @@ module Authentication
     def authenticate(email, password)
       user = find_by(email: email)
       return unless user
+
       user.send :new_token
       user.authenticate password
     end

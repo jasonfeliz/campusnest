@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class UsersController < ProtectedController
-  skip_before_action :authenticate, only: %i[signup signin index]
+  skip_before_action :authenticate, only: %i[signup signin index checkusername]
   def index
     render json: User.all
   end
@@ -49,6 +49,23 @@ class UsersController < ProtectedController
     end
   end
 
+  # POST check if username exist
+  def checkusername
+    # get the username that the user submitted
+    @username = username_validate[:submitted_username]
+    # check the users table to see if the username exists
+    # if username exist, send back response
+    @user = User.where(username: @username).take
+    if @user
+      render plain: 'taken'
+    end
+  end
+
+  # POST check if username exist
+  def checkemail
+    'check email'
+  end
+
   private
 
   def user_creds
@@ -59,5 +76,9 @@ class UsersController < ProtectedController
   def pw_creds
     params.require(:passwords)
           .permit(:old, :new)
+  end
+
+  def username_validate
+    params.require(:username).permit(:submitted_username)
   end
 end

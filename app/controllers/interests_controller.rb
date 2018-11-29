@@ -1,4 +1,4 @@
-class InterestsController < ApplicationController
+class InterestsController < OpenReadController
   before_action :set_interest, only: [:show, :update, :destroy]
 
   # GET /interests

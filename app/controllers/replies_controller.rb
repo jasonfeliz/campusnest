@@ -1,4 +1,4 @@
-class RepliesController < ApplicationController
+class RepliesController < OpenReadController
   before_action :set_reply, only: [:show, :update, :destroy]
 
   # GET /replies
