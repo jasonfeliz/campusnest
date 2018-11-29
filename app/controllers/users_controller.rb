@@ -9,6 +9,7 @@ class UsersController < ProtectedController
   # POST '/sign-up'
   def signup
     user = User.create(user_creds)
+
     if user.valid?
       render json: user, status: :created
     else
@@ -19,8 +20,9 @@ class UsersController < ProtectedController
   # POST '/sign-in'
   def signin
     creds = user_creds
-    if (user = User.authenticate creds[:email],
-                                 creds[:password])
+    if (user = User.authenticate creds[:email],creds[:password])
+      cookies[:current_school_id] = { value: user[:college_id], expires: 1.year}
+      cookies[:user] = { value: user, expires: 1.year}
       render json: user, serializer: UserLoginSerializer, root: 'user'
     else
       head :unauthorized
@@ -54,23 +56,20 @@ class UsersController < ProtectedController
     # get the username that the user submitted
     @username = username_validate[:submitted_username]
     # check the users table to see if the username exists
-    # if username exist, send back response
+    # if username exist, send back response in string 'taken'
     @user = User.where(username: @username).take
     if @user
       render plain: 'taken'
     end
   end
 
-  # POST check if username exist
-  def checkemail
-    'check email'
-  end
+
 
   private
 
   def user_creds
     params.require(:credentials)
-          .permit(:email, :password, :password_confirmation,:username,:college_id)
+          .permit(:email, :password, :password_confirmation, :username, :college_id)
   end
 
   def pw_creds

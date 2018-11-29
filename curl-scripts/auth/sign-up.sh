@@ -10,7 +10,7 @@ curl "http://localhost:4741/sign-up" \
       "password": "'"${PASSWORD}"'",
       "password_confirmation": "'"${PASSWORD}"'",
       "username": "'"${USERNAME}"'",
-      "college_id": "'"${COLLEGEID}"'"
+      "college": "'"${COLLEGE}"'"
     }
   }'
 

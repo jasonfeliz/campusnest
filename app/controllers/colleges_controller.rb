@@ -38,6 +38,10 @@ class CollegesController < OpenReadController
     @college.destroy
   end
 
+  def search_college
+    @colleges = College.find()
+  end
+
   private
 
   # Use callbacks to share common setup or constraints between actions.

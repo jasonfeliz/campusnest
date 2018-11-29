@@ -1,140 +1,140 @@
-college_name,city,state,created_at,updated_at,email_url
-Amherst College,Amherst,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,amherst.edu
-Arizona State University,Tempe,AZ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,asu.edu
-Assumption College,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,assumption.edu
-Auburn University,Auburn University,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,auburn.edu
-Babson College,Wellesley,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,babson.edu
-Boise State University,Boise,ID,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,boisestate.edu
-Boston College,Chestnut Hill,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bc.edu
-Boston University,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bu.edu
-Bowdoin College,Brunswick,ME,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bowdoin.edu
-Bowie State University,Bowie,MD,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bowiestate.edu
-Bowling Green State University,Bowling Green,OH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bgsu.edu
-Bridgewater State University,Bridgewater,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bridgew.edu
-Brigham Young University,Provo,UT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,byu.edu
-Brown University,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,brown.edu
-Bryant University,Smithfield,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bryant.edu
-Bucknell University,Lewisburg,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bucknell.edu
-Butler University,Indianapolis,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,butler.edu
-Cal State  - Bakersfield,Bakersfield,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csub.edu
-Cal State  - Channel Islands,Camarillo,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csuci.edu
-Cal State  - Chico,Chico,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csuchico.edu
-Cal State  - Dominguez Hills,Carson,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csudh.edu
-Cal State  - East Bay,Hayward,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csueastbay.edu
-Cala State  - Fresno,Fresno,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fresnostate.edu
-Cal State  - Fullerton,Fullerton,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fullerton.edu
-Cal State  - Long Beach,Long Beach,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csulb.edu
-Cal State  - Los Angeles,Los Angeles,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,calstatela.edu
-Cal State  - Monterey Bay,Seaside,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csumb.edu
-Cal State  - Northridge,Northridge,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csun.edu
-Cal State  - Sacramento,Sacramento,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csus.edu
-Cal State  - San Bernardino,San Bernardino,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csusb.edu
-Cal State  - San Marcos,San Marcos,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csusm.edu
-Cal State  - Stanislaus,Turlock,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csustan.edu
-Carnegie Mellon University,Pittsburgh,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,cmu.edu
-Colorado State University,Fort Collins,CO,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,colostate.edu
-Columbia University,New York,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,columbia.edu
-Cornell University,Ithaca,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,cornell.edu
-Creighton University,Omaha,NE,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,creighton.edu
-Dartmouth College,Hanover,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,dartmouth.edu
-Davenport University,Grand Rapids,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,davenport.edu
-Davidson College,Davidson,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,davidson.edu
-DePaul University,Chicago,IL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,depaul.edu
-Duke University,Durham,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,duke.edu
-Emory University,Atlanta,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,emory.edu
-Fairfield University,Fairfield,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fairfield.edu
-Florida State University,Tallahassee,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fsu.edu
-Fordham University,Bronx,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fordham.edu
-Framingham State University,Framingham,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,framingham.edu
-Franklin Pierce University,Rindge,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fpc.edu
-George Mason University,Fairfax,VA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gmu.edu
-George Washington University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gwu.edu
-Georgetown University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,georgetown.edu
-Georgia Institute of Technology,Atlanta,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gatech.edu
-Harvard University,Cambridge,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,harvard.edu
-Harvey Mudd College,Claremont,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,hmc.edu
-Indiana University,Bloomington,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,iu.edu
-Johns Hopkins University,Baltimore,MD,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,jhu.edu
-Johnson & Wales University,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,jwu.edu
-Louisiana State University,Baton Rouge,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,lsu.edu
-Marquette University,Milwaukee,WI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,marquette.edu
-Massachusetts Institute of Technology,Cambridge,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,mit.edu
-Michigan State University,East Lansing,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,msu.edu
-New England Institute of Technology,East Greenwich,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,neit.edu
-New York University,New York,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,nyu.edu
-North Carolina State University,Raleigh,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ncsu.edu
-Ohio State University,Columbus,OH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,osu.edu
-Oklahoma State University,Stillwater,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,pio.okstate.edu
-Old Dominion University,Norfolk,VA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,odu.edu
-Oral Roberts University,Tulsa,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,oru.edu
-Pennsylvania State University,University Park,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,psu.edu
-Princeton University,Princeton,NJ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,princeton.edu
-Providence College,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,providence.edu
-Purdue University,West Lafayette,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,purdue.edu
-Rensselaer Polytechnic Institute,Troy,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rpi.edu
-Rhode Island College,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ric.edu
-Rhode Island School of Design,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,risd.edu
-Rice University,Houston,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rice.edu
-Rochester Institute of Technology,Rochester,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rit.edu
-Roger Williams University,Bristol,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rwu.edu
-Rutgers University,New Brunswick,NJ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rutgers.edu
-Sacred Heart University,Fairfield,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,sacredheart.edu
-Saint Anselm College,Manchester,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,anselm.edu
-Salve Regina University,Newport,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,salve.edu
-San Diego State University,San Diego,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,sdsu.edu
-Stanford University,Stanford,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,stanford.edu
-Stonehill College,Easton,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,stonehill.edu
-Strayer University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,strayer.edu
-Suffolk University,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,suffolk.edu
-SUNY - Albany,Albany,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,albany.edu
-SUNY - Binghamton,Binghamton,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,binghamton.edu
-Syracuse University,Syracuse,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,syr.edu
-Temple University,Philadelphia,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,temple.edu
-Tennessee State University,Nashville,TN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tnstate.edu
-Texas A&M University,College Station,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tamu.edu
-Texas Christian University,Fort Worth,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tcu.edu
-Texas State University,San Marcos,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,txstate.edu
-Texas Tech University,Lubbock,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ttu.edu
-Tufts University,Medford,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tufts.edu
-Tulane University,New Orleans,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tulane.edu
-University of Alabama - Birmingham,Birmingham,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uab.edu
-University of Alabama - Huntsville,Huntsville,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uah.edu
-University of Alaska - Anchorage,Anchorage,AK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,alaska.edu
-University of Arizona,Tucson,AZ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,arizona.edu
-University of Arkansas - Fayetteville,Fayetteville,AR,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uark.edu
-University of Bridgeport,Bridgeport,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bridgeport.edu
-University of California - Davis,Davis,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucdavis.edu
-University of California - Los Angeles,Los Angeles,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucla.edu
-University of California - San Diego,La Jolla,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsd.edu
-University of California - Berkeley,Berkeley,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,berkeley.edu
-University of California - Irvine,Irvine,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uci.edu
-University of California - Riverside,Riverside,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucr.edu
-University of California - San Francisco,San Francisco,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsf.edu
-University of California - Santa Barbara,Santa Barbara,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsb.edu
-University of California - Santa Cruz,Santa Cruz,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsc.edu
-University of Colorado - Boulder,Boulder,CO,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,colorado.edu
-University of Connecticut,Storrs,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uconn.edu
-University of Florida,Gainesville,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ufl.edu
-University of Georgia,Athens,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uga.edu
-University of Kentucky,Lexington,KY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uky.edu
-University of Louisiana - Lafayette,Lafayette,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,louisiana.edu
-University of Louisiana - Monroe,Monroe,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ulm.edu
-University of Louisville,Louisville,KY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,louisville.edu
-University of Maine,Orono,ME,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umaine.edu
-University of Massachusetts - Boston,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umb.edu
-University of Massachusetts - Dartmouth,North Dartmouth,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umassd.edu
-University of Massachusetts - Lowell,Lowell,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uml.edu
-University of Massachusetts Amherst,Amherst,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umass.edu
-University of Miami,Coral Gables,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,miami.edu
-University of Michigan - Ann Arbor,Ann Arbor,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umich.edu
-University of Notre Dame,Notre Dame,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,nd.edu
-University of Oklahoma,Norman,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ou.edu
-University of Oregon,Eugene,OR,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uoregon.edu
-University of Pennsylvania,Philadelphia,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,upenn.edu
-University of Rhode Island,Kingston,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uri.edu
-Vanderbilt University,Nashville,TN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,vanderbilt.edu
-Vassar College,Poughkeepsie,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,vassar.edu
-Williams College,Williamstown,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,williams.edu
-Worcester Polytechnic Institute,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,wpi.edu
-Worcester State University,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,worcester.edu
-Yale University,New Haven,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,yale.edu
+id,college_name,city,state,created_at,updated_at,email_url
+1,Amherst College,Amherst,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,amherst.edu
+2,Arizona State University,Tempe,AZ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,asu.edu
+3,Assumption College,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,assumption.edu
+4,Auburn University,Auburn University,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,auburn.edu
+5,Babson College,Wellesley,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,babson.edu
+6,Boise State University,Boise,ID,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,boisestate.edu
+7,Boston College,Chestnut Hill,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bc.edu
+8,Boston University,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bu.edu
+9,Bowdoin College,Brunswick,ME,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bowdoin.edu
+10,Bowie State University,Bowie,MD,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bowiestate.edu
+11,Bowling Green State University,Bowling Green,OH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bgsu.edu
+12,Bridgewater State University,Bridgewater,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bridgew.edu
+13,Brigham Young University,Provo,UT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,byu.edu
+14,Brown University,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,brown.edu
+15,Bryant University,Smithfield,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bryant.edu
+16,Bucknell University,Lewisburg,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bucknell.edu
+17,Butler University,Indianapolis,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,butler.edu
+18,Cal State  - Bakersfield,Bakersfield,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csub.edu
+19,Cal State  - Channel Islands,Camarillo,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csuci.edu
+20,Cal State  - Chico,Chico,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csuchico.edu
+21,Cal State  - Dominguez Hills,Carson,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csudh.edu
+22,Cal State  - East Bay,Hayward,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csueastbay.edu
+23,Cala State  - Fresno,Fresno,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fresnostate.edu
+24,Cal State  - Fullerton,Fullerton,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fullerton.edu
+25,Cal State  - Long Beach,Long Beach,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csulb.edu
+26,Cal State  - Los Angeles,Los Angeles,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,calstatela.edu
+27,Cal State  - Monterey Bay,Seaside,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csumb.edu
+28,Cal State  - Northridge,Northridge,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csun.edu
+29,Cal State  - Sacramento,Sacramento,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csus.edu
+30,Cal State  - San Bernardino,San Bernardino,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csusb.edu
+31,Cal State  - San Marcos,San Marcos,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csusm.edu
+32,Cal State  - Stanislaus,Turlock,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,csustan.edu
+33,Carnegie Mellon University,Pittsburgh,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,cmu.edu
+34,Colorado State University,Fort Collins,CO,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,colostate.edu
+35,Columbia University,New York,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,columbia.edu
+36,Cornell University,Ithaca,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,cornell.edu
+37,Creighton University,Omaha,NE,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,creighton.edu
+38,Dartmouth College,Hanover,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,dartmouth.edu
+39,Davenport University,Grand Rapids,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,davenport.edu
+40,Davidson College,Davidson,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,davidson.edu
+41,DePaul University,Chicago,IL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,depaul.edu
+42,Duke University,Durham,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,duke.edu
+43,Emory University,Atlanta,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,emory.edu
+44,Fairfield University,Fairfield,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fairfield.edu
+45,Florida State University,Tallahassee,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fsu.edu
+46,Fordham University,Bronx,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fordham.edu
+47,Framingham State University,Framingham,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,framingham.edu
+48,Franklin Pierce University,Rindge,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,fpc.edu
+49,George Mason University,Fairfax,VA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gmu.edu
+50,George Washington University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gwu.edu
+51,Georgetown University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,georgetown.edu
+52,Georgia Institute of Technology,Atlanta,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,gatech.edu
+53,Harvard University,Cambridge,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,harvard.edu
+54,Harvey Mudd College,Claremont,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,hmc.edu
+55,Indiana University,Bloomington,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,iu.edu
+56,Johns Hopkins University,Baltimore,MD,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,jhu.edu
+57,Johnson & Wales University,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,jwu.edu
+58,Louisiana State University,Baton Rouge,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,lsu.edu
+59,Marquette University,Milwaukee,WI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,marquette.edu
+60,Massachusetts Institute of Technology,Cambridge,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,mit.edu
+61,Michigan State University,East Lansing,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,msu.edu
+62,New England Institute of Technology,East Greenwich,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,neit.edu
+63,New York University,New York,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,nyu.edu
+64,North Carolina State University,Raleigh,NC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ncsu.edu
+65,Ohio State University,Columbus,OH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,osu.edu
+66,Oklahoma State University,Stillwater,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,pio.okstate.edu
+67,Old Dominion University,Norfolk,VA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,odu.edu
+68,Oral Roberts University,Tulsa,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,oru.edu
+69,Pennsylvania State University,University Park,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,psu.edu
+70,Princeton University,Princeton,NJ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,princeton.edu
+71,Providence College,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,providence.edu
+72,Purdue University,West Lafayette,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,purdue.edu
+73,Rensselaer Polytechnic Institute,Troy,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rpi.edu
+74,Rhode Island College,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ric.edu
+75,Rhode Island School of Design,Providence,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,risd.edu
+76,Rice University,Houston,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rice.edu
+77,Rochester Institute of Technology,Rochester,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rit.edu
+78,Roger Williams University,Bristol,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rwu.edu
+79,Rutgers University,New Brunswick,NJ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,rutgers.edu
+80,Sacred Heart University,Fairfield,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,sacredheart.edu
+81,Saint Anselm College,Manchester,NH,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,anselm.edu
+82,Salve Regina University,Newport,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,salve.edu
+83,San Diego State University,San Diego,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,sdsu.edu
+84,Stanford University,Stanford,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,stanford.edu
+85,Stonehill College,Easton,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,stonehill.edu
+86,Strayer University,Washington,DC,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,strayer.edu
+87,Suffolk University,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,suffolk.edu
+88,SUNY - Albany,Albany,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,albany.edu
+89,SUNY - Binghamton,Binghamton,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,binghamton.edu
+90,Syracuse University,Syracuse,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,syr.edu
+91,Temple University,Philadelphia,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,temple.edu
+92,Tennessee State University,Nashville,TN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tnstate.edu
+93,Texas A&M University,College Station,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tamu.edu
+94,Texas Christian University,Fort Worth,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tcu.edu
+95,Texas State University,San Marcos,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,txstate.edu
+96,Texas Tech University,Lubbock,TX,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ttu.edu
+97,Tufts University,Medford,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tufts.edu
+98,Tulane University,New Orleans,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,tulane.edu
+99,University of Alabama - Birmingham,Birmingham,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uab.edu
+100,University of Alabama - Huntsville,Huntsville,AL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uah.edu
+101,University of Alaska - Anchorage,Anchorage,AK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,alaska.edu
+102,University of Arizona,Tucson,AZ,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,arizona.edu
+103,University of Arkansas - Fayetteville,Fayetteville,AR,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uark.edu
+104,University of Bridgeport,Bridgeport,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,bridgeport.edu
+105,University of California - Davis,Davis,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucdavis.edu
+106,University of California - Los Angeles,Los Angeles,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucla.edu
+107,University of California - San Diego,La Jolla,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsd.edu
+108,University of California - Berkeley,Berkeley,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,berkeley.edu
+109,University of California - Irvine,Irvine,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uci.edu
+110,University of California - Riverside,Riverside,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucr.edu
+111,University of California - San Francisco,San Francisco,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsf.edu
+112,University of California - Santa Barbara,Santa Barbara,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsb.edu
+113,University of California - Santa Cruz,Santa Cruz,CA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ucsc.edu
+114,University of Colorado - Boulder,Boulder,CO,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,colorado.edu
+115,University of Connecticut,Storrs,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uconn.edu
+116,University of Florida,Gainesville,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ufl.edu
+117,University of Georgia,Athens,GA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uga.edu
+118,University of Kentucky,Lexington,KY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uky.edu
+119,University of Louisiana - Lafayette,Lafayette,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,louisiana.edu
+120,University of Louisiana - Monroe,Monroe,LA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ulm.edu
+121,University of Louisville,Louisville,KY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,louisville.edu
+122,University of Maine,Orono,ME,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umaine.edu
+123,University of Massachusetts - Boston,Boston,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umb.edu
+124,University of Massachusetts - Dartmouth,North Dartmouth,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umassd.edu
+125,University of Massachusetts - Lowell,Lowell,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uml.edu
+126,University of Massachusetts Amherst,Amherst,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umass.edu
+127,University of Miami,Coral Gables,FL,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,miami.edu
+128,University of Michigan - Ann Arbor,Ann Arbor,MI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,umich.edu
+129,University of Notre Dame,Notre Dame,IN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,nd.edu
+130,University of Oklahoma,Norman,OK,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,ou.edu
+131,University of Oregon,Eugene,OR,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uoregon.edu
+132,University of Pennsylvania,Philadelphia,PA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,upenn.edu
+133,University of Rhode Island,Kingston,RI,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,uri.edu
+134,Vanderbilt University,Nashville,TN,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,vanderbilt.edu
+135,Vassar College,Poughkeepsie,NY,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,vassar.edu
+136,Williams College,Williamstown,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,williams.edu
+137,Worcester Polytechnic Institute,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,wpi.edu
+138,Worcester State University,Worcester,MA,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,worcester.edu
+139,Yale University,New Haven,CT,2018-11-24 22:08:20.547662,2018-11-24 22:08:20.547662,yale.edu
