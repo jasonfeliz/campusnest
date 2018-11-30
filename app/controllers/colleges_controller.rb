@@ -39,7 +39,7 @@ class CollegesController < OpenReadController
   end
 
   def search_college
-    @colleges = College.find()
+    @colleges = College.where('college_name ILIKE ?', "%#{word}%")
   end
 
   private

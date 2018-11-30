@@ -21,8 +21,7 @@ class UsersController < ProtectedController
   def signin
     creds = user_creds
     if (user = User.authenticate creds[:email],creds[:password])
-      cookies[:current_school_id] = { value: user[:college_id], expires: 1.year}
-      cookies[:user] = { value: user, expires: 1.year}
+
       render json: user, serializer: UserLoginSerializer, root: 'user'
     else
       head :unauthorized

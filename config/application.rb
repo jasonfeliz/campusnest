@@ -30,7 +30,7 @@ module RailsApiTemplate
     # Middleware like session, flash, cookies can be added back manually.
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
-
+    config.middleware.use ActionDispatch::Cookies
     config.load_defaults 5.1
     # By default in Rails 4 loading an AR model won't establish a connection
     # to the database until AR needs to fetch database therefore in the console

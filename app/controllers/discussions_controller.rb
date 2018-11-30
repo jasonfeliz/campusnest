@@ -3,7 +3,7 @@ class DiscussionsController < OpenReadController
 
   # GET /discussions
   def index
-    @discussions = Discussion.all
+    @discussions = Discussion.where(college_id: discussion_params[:college_id])
 
     render json: @discussions
   end
