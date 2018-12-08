@@ -11,6 +11,7 @@ Rails.application.routes.draw do
 
   # Custom routes
   get '/users' => 'users#index'
+  get '/users/:id' => 'users#show'
   post '/sign-up' => 'users#signup'
   post '/sign-in' => 'users#signin'
   post '/check-username' => 'users#checkusername'

@@ -1,19 +1,29 @@
 # frozen_string_literal: true
 
 class UsersController < ProtectedController
-  skip_before_action :authenticate, only: %i[signup signin index checkusername]
+  skip_before_action :authenticate, only: %i[signup signin index checkusername show]
   def index
     render json: User.all
   end
 
+  def show
+    user = User.find(params[:id])
+    render json: user
+  end
+
+
   # POST '/sign-up'
   def signup
-    user = User.create(user_creds)
-
-    if user.valid?
-      render json: user, status: :created
+    new_user = User.create(user_creds)
+    if new_user.valid?
+      # if user is valid, check crentials and send of UserLoginSerializer,
+      if (user = User.authenticate(user_creds[:email],user_creds[:password]) )
+        render json: user, serializer: UserLoginSerializer, root: 'user'
+      else
+        head :unauthorized
+      end
     else
-      render json: user.errors, status: :bad_request
+      render json: new_user.errors, status: :bad_request
     end
   end
 
