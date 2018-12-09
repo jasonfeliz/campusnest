@@ -3,7 +3,7 @@ class DiscussionsController < OpenReadController
 
   # GET /discussions
   def index
-    @discussions = Discussion.where(college_id: discussion_params[:college_id])
+    @discussions = Discussion.where(college_id: discussion_params[:college_id]).order(updated_at: :desc)
 
     render json: @discussions
   end
