@@ -46,6 +46,6 @@ class DiscussionsController < OpenReadController
 
     # Only allow a trusted parameter "white list" through.
     def discussion_params
-      params.require(:discussion).permit(:college_id, :user_id, :interest_id, :title, :body)
+      params.require(:discussion).permit(:id, :college_id, :user_id, :interest_id, :title, :body)
     end
 end
