@@ -1,16 +1,18 @@
 class RepliesController < OpenReadController
-  before_action :set_reply, only: [:show, :update, :destroy]
+  before_action :set_reply, only: [:update, :destroy]
 
   # GET /replies
   def index
-    @replies = Reply.all
+    @replies = Reply.all.where(discussion_id: params[:id]).order(updated_at: :desc)
 
     render json: @replies
   end
 
   # GET /replies/1
   def show
-    render json: @reply
+    @replies = Reply.all.where(discussion_id: params[:id]).order(updated_at: :desc)
+
+    render json: @replies
   end
 
   # POST /replies
@@ -46,6 +48,6 @@ class RepliesController < OpenReadController
 
     # Only allow a trusted parameter "white list" through.
     def reply_params
-      params.require(:reply).permit(:body)
+      params.require(:reply).permit(:user_id, :discussion_id, :body)
     end
 end
